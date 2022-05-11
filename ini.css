@@ -1,0 +1,29 @@
+ *{
+	margin: 0;
+	padding: 0;
+}
+#contenedor{
+	width: 360px;
+	height: 385px;
+    background:#9c356a;
+	margin:  10em 60em ;
+	padding: 0.5em;
+	float: left;
+	
+}
+
+ input {
+width: 100%;
+background: #FFFFFF ;
+font-size: 15px;
+text-align: center;
+
+}
+#p {
+
+border: inset ;
+background: #B1C1BE;
+font-size: 9px;
+padding:1em;
+margin:1em;
+}
