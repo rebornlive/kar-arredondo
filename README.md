@@ -1,32 +1,32 @@
 <! DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<title> scroll  </title>
- <link rel="stylesheet" type="text/css" href="style.css">
+    <title> inicio</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="ini.css">
+	<style>
+	body {
+	background-image: url('mesirve.gif');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	}
+	
+	</style>
+	
 </head>
 <body>
-<div class="outer-wrapper"> 
-    <div class="wrapper"> 
-
-        <div class="slide one"><iframe src="https://github.com/rebornlive/kar-arredondo/blob/gh-pages/hotel.html" width="1437" height="890"> </iframe> </div>
-		
-        <div class="slide dos">
-		<p class="text2">MOSCÚ RUSIA</p>
-		<p class="text3">LUGARES TURISTICOS</p><br>
-		<iframe src=".\turismo\turismo.html" width="1437" height="890"> </iframe></div>
-		
-		
-        <div class="slide tres">
-		<p class="text1">SERVICIOS DEL HOTEL</p>
-		<iframe src=".\slider\que.html" width="1437" height="890"> </iframe>
-		</div>
-		
-		
-        <div class="slide cuatro">
-	     <iframe src=".\transation\transation2.html" width="1437" height="790"> </iframe></div>
-    </div>
-</div> 
-
+<div id="contenedor">
+  <form>
+<div id="p"><label for="user"><h3> <center>NOMBRES </h3></center></label></div>
+<input type="text" id="fname" name="fname"> </br></br>
+ <div id="p"><label for="fname"> <h3><center>APELLIDOS</h3></center></label></div>
+<input type="text" id="fname" name="fname"> </br></br>
+<div id="p"><label for="fname"><h3> <center>CORREO ELECTRONICO</center></h3></label></div>
+<input type="text" id="fname" name="fname"> </br></br>
+<div id="p"><label for="fname"> <h3><center>USUARIO</center></h3></label></div>
+<input type="text" id="fname" name="fname"> </br></br>
+<input type="submit" value="Submit"></br></br>
+ </form> </div>
 </body>
 </html>
