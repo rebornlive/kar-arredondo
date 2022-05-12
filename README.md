@@ -84,11 +84,11 @@
 	
 	<div class="icon-image last ">
       <div class="icon">
-         <img src="D:\karla vianeth arredondo martinez\re.jpg") alt="">
+         <img src="https://github.com/rebornlive/kar-arredondo/blob/gh-pages/re.jpg") alt="">
       </div>
 	  <div class="hover-image">
 	  <div class="img">
-	  <img src="D:\karla vianeth arredondo martinez\re.jpg") alt="">
+	  <img src="https://github.com/rebornlive/kar-arredondo/blob/gh-pages/re.jpg") alt="">
 	  </div>
 	   <div class="content">
 	   <div class="details">
