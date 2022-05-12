@@ -6,7 +6,7 @@
     <link rel="stylesheet" type="text/css" href="ini.css">
 	<style>
 	body {
-	background-image: url('mesirve.gif');
+	background-image: url('pa.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
