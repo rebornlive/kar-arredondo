@@ -9,7 +9,7 @@
 <div class="outer-wrapper"> 
     <div class="wrapper"> 
 
-        <div class="slide one"><iframe src=".\hotel\hotel.html" width="1437" height="890"> </iframe> </div>
+        <div class="slide one"><iframe src="https://github.com/rebornlive/kar-arredondo/blob/gh-pages/hotel.html" width="1437" height="890"> </iframe> </div>
 		
         <div class="slide dos">
 		<p class="text2">MOSCÚ RUSIA</p>
