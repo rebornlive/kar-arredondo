@@ -1,104 +1,32 @@
-<! DOCTYPE html>
-<html lang="es">
+<html>
+
 <head>
 <meta charset="UTF-8">
-<title>Z- index hover transition codinglanb</title>
- <link rel="stylesheet"  href=".\reborn.css">
-</head>
-<body><! DOCTYPE html>
-<html lang="es">
-<head>
-<meta charset="UTF-8">
-<title>Z- index hover transition codinglanb</title>
- <link rel="stylesheet"  href="reborn.css">
+
+ <link rel="stylesheet" type="text/css" href=".\style.css">
 </head>
 <body>
-<div class="container">
-   <div class="icon-image">
-      <div class="icon">
-         <img src=".\juan.jpg") alt="">
-      </div>
-	  <div class="hover-image">
-	  <div class="img">
-	  <img src=".\juan.jpg") alt="">
-	  </div>
-	   <div class="content">
-	   <div class="details">
-	   <div class="name"> juansguarnizo</div>
-	   <div class="job">streamer || Twitch</div>
-	   </div>
-	   </div>
-	  </div>
-	  </div>
-	  
-	    <div class="icon-image">
-      <div class="icon">
-         <img src=".\rata.jpg") alt="">
-      </div>
-	  <div class="hover-image">
-	  <div class="img">
-	  <img src=".\rata.jpg") alt="">
-	  </div>
-	   <div class="content">
-	   <div class="details">
-	   <div class="name"> Rubius </div>
-	   <div class="job">streamer || Twitch</div>
-	   </div>
-	   </div>
-	  </div>
-    </div>
-	
-	<div class="icon-image">
-      <div class="icon">
-         <img src=".\patron.jpg") alt="">
-      </div>
-	  <div class="hover-image">
-	  <div class="img">
-	  <img src=".\patron.jpg") alt="">
-	  </div>
-	   <div class="content">
-	   <div class="details">
-	   <div class="name"> Elmariana</div>
-	   <div class="job">streamer || Twitch</div>
-	   </div>
-	   </div>
-	  </div>
-    </div>
-	
-	<div class="icon-image">
-      <div class="icon">
-         <img src=".\robb.jpg") alt="">
-      </div>
-	  <div class="hover-image">
-	  <div class="img">
-	  <img src=".\robb.jpg") alt="">
-	  </div>
-	   <div class="content">
-	   <div class="details">
-	   <div class="name"> Robleis</div>
-	   <div class="job">streamer || Twitch</div>
-	   </div>
-	   </div>
-	  </div>
-    </div>
-	
-	<div class="icon-image last ">
-      <div class="icon">
-         <img src=".\re.jpg") alt="">
-      </div>
-	  <div class="hover-image">
-	  <div class="img">
-	  <img src=".\re.jpg") alt="">
-	  </div>
-	   <div class="content">
-	   <div class="details">
-	   <div class="name"> Reborn_live</div>
-	   <div class="job">streamer || Twitch</div>
-	   </div>
-	   </div>
-	  </div>
-    </div>
-	
+<div class="outer-wrapper">
+    <div class="wrapper">
+
+        <div class="slide one"><iframe src=".\hotel.html" width="1437" height="890"> </iframe> </div>
+
+        <div class="slide dos">
+<p class="text2">MOSCÚ RUSIA</p>
+<p class="text3">LUGARES TURISTICOS</p><br>
+<iframe src=".\turismo.html" width="1437" height="890"> </iframe></div>
+
+
+        <div class="slide tres">
+<p class="text1">SERVICIOS DEL HOTEL</p>
+<iframe src=".\que.html" width="1437" height="890"> </iframe>
 </div>
+
+
+        <div class="slide cuatro">
+    <iframe src=".\transation2.html" width="1437" height="790"> </iframe></div>
+    </div>
+</div>
+
 </body>
 </html>
