@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Z- index hover transition codinglanb</title>
- <link rel="stylesheet"  href="https://github.com/rebornlive/kar-arredondo/blob/gh-pages/reborn.css">
+ <link rel="stylesheet"  href=".\reborn.css">
 </head>
 <body><! DOCTYPE html>
 <html lang="es">
@@ -33,11 +33,11 @@
 	  
 	    <div class="icon-image">
       <div class="icon">
-         <img src="https://github.com/rebornlive/kar-arredondo/blob/gh-pages/rata.jpg") alt="">
+         <img src=".\rata.jpg") alt="">
       </div>
 	  <div class="hover-image">
 	  <div class="img">
-	  <img src="https://github.com/rebornlive/kar-arredondo/blob/gh-pages/rata.jpg") alt="">
+	  <img src=".\rata.jpg") alt="">
 	  </div>
 	   <div class="content">
 	   <div class="details">
@@ -50,11 +50,11 @@
 	
 	<div class="icon-image">
       <div class="icon">
-         <img src="https://github.com/rebornlive/kar-arredondo/blob/gh-pages/patron.jpg") alt="">
+         <img src=".\patron.jpg") alt="">
       </div>
 	  <div class="hover-image">
 	  <div class="img">
-	  <img src="https://github.com/rebornlive/kar-arredondo/blob/gh-pages/patron.jpg") alt="">
+	  <img src=".\patron.jpg") alt="">
 	  </div>
 	   <div class="content">
 	   <div class="details">
@@ -67,11 +67,11 @@
 	
 	<div class="icon-image">
       <div class="icon">
-         <img src="https://github.com/rebornlive/kar-arredondo/blob/gh-pages/robb.jpg") alt="">
+         <img src=".\robb.jpg") alt="">
       </div>
 	  <div class="hover-image">
 	  <div class="img">
-	  <img src="https://github.com/rebornlive/kar-arredondo/blob/gh-pages/robb.jpg") alt="">
+	  <img src=".\robb.jpg") alt="">
 	  </div>
 	   <div class="content">
 	   <div class="details">
@@ -84,11 +84,11 @@
 	
 	<div class="icon-image last ">
       <div class="icon">
-         <img src="https://github.com/rebornlive/kar-arredondo/blob/gh-pages/re.jpg") alt="">
+         <img src=".\re.jpg") alt="">
       </div>
 	  <div class="hover-image">
 	  <div class="img">
-	  <img src="https://github.com/rebornlive/kar-arredondo/blob/gh-pages/re.jpg") alt="">
+	  <img src=".\re.jpg") alt="">
 	  </div>
 	   <div class="content">
 	   <div class="details">
