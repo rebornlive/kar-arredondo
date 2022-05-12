@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Z- index hover transition codinglanb</title>
- <link rel="stylesheet"  href="reborn.css">
+ <link rel="stylesheet"  href="https://github.com/rebornlive/kar-arredondo/blob/gh-pages/reborn.css">
 </head>
 <body><! DOCTYPE html>
 <html lang="es">
